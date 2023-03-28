@@ -1,5 +1,5 @@
 # Chat App
-Real time Chat app made from scratch based on the lessons I learned from React course with modern UI and UX design.
+Real time Chat app made from scratch based on the lessons I learned from React course with modern UI/UX design.
 
 ### Live Demo: <a href="https://lily3214.github.io/chat-app-react/" target="_blank" rel="nofollow">Chat App</a>
 
