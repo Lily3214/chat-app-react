@@ -29,7 +29,7 @@ Allows Chat with Multiple Users
 Fully Responsive Design
   </li>
   <li>
-Modern UI/UX design
+Modern UI/UX Design
   </li>
   
 # Built with
