@@ -3,7 +3,7 @@ Real time Chat app made from scratch based on the lessons I learned from React c
 
 ### Live Demo: <a href="https://lily3214.github.io/chat-app-react/" target="_blank" rel="nofollow">Chat App</a>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width:100%"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/chat-app-react/blob/main/src/assets/chatapp.jpg"><img src="https://github.com/Lily3214/chat-app-react/blob/main/src/assets/chatapp.jpg" alt="image" style="max-width:100%"></a></p>
 
 
 # Features
