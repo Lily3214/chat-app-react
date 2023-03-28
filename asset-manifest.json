@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chat-app-react/static/css/main.18052263.css",
+    "main.js": "/chat-app-react/static/js/main.54f665af.js",
+    "static/media/space.jpg": "/chat-app-react/static/media/space.1726696fd17fec1c2e62.jpg",
+    "static/media/VisbyRoundCF-Heavy.woff": "/chat-app-react/static/media/VisbyRoundCF-Heavy.5b14967687bb1ecf4295.woff",
+    "static/media/VisbyRoundCF-Regular.woff": "/chat-app-react/static/media/VisbyRoundCF-Regular.78ce79eac18796023f1b.woff",
+    "static/media/VisbyRoundCF-DemiBold.woff": "/chat-app-react/static/media/VisbyRoundCF-DemiBold.ecce87927ba286ccd634.woff",
+    "index.html": "/chat-app-react/index.html",
+    "main.18052263.css.map": "/chat-app-react/static/css/main.18052263.css.map",
+    "main.54f665af.js.map": "/chat-app-react/static/js/main.54f665af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18052263.css",
+    "static/js/main.54f665af.js"
+  ]
+}
