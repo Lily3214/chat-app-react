@@ -1,7 +1,7 @@
 # Chat App
-Real time Chat app made from scratch based on the lessons with modern UI and UX design.
+Real time Chat app made from scratch based on the lessons I learned from React course with modern UI and UX design.
 
-### Live Demo: <a href="https://lily3214.github.io/ecommerce-react/" target="_blank" rel="nofollow">Chat App</a>
+### Live Demo: <a href="https://lily3214.github.io/chat-app-react/" target="_blank" rel="nofollow">Chat App</a>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG"><img src="https://github.com/Lily3214/ecommerce-react/blob/main/src/assets/images/ecommerce.jpg2.JPG" alt="image" style="max-width:100%"></a></p>
 
