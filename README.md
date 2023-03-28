@@ -8,32 +8,37 @@ Real time Chat app made from scratch based on the lessons I learned from React c
 
 # Features
 <li>
-SignUp and Login using Firebase
+SignUp and Login using Chat Engine
+  </li>
+    <li>
+Send Real time chat
   </li>
   <li>
-Add and remove products from the shopping cart
+Send Pictures, Files, and Documents in chat.
   </li>
   <li>
-Filter products by categories
+User Search Bar
   </li>
   <li>
-Product details and Product reviews page
+Online / Offline Features
   </li>
   <li>
-Checkout and Billing information form
+Allows Chat with Multiple Users
   </li>
   <li>
-Fully responsive design
+Fully Responsive Design
   </li>
-  
+  <li>
+Modern UI/UX design
+  </li>
   
 # Built with
   <li>
 ReactJs
   </li>
   <li>
-Redux Toolkit
+Typescript
   </li>
   <li>
-Firebase
+Chat Engine
   </li>
