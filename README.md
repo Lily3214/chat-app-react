@@ -19,12 +19,6 @@ User Search Bar
   <li>
 Online / Offline Features
   </li>
-  <li>
-Fully Responsive Design
-  </li>
-  <li>
-Modern UI/UX Design
-  </li>
   
 # Built with
   <li>
