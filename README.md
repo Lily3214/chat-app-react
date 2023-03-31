@@ -1,5 +1,5 @@
 # Chat App
-Real-time Chat app built with React, TypeScript, Chat Engine, modern UI/UX design, and a fully responsive web, app.
+A Real-time Chat app built with React, TypeScript, Chat Engine, modern UI/UX design, and a fully responsive web, app.
 
 ### Live Demo: <a href="https://lily3214.github.io/chat-app-react/" target="_blank" rel="nofollow">Chat App</a>
 
