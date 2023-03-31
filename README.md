@@ -11,19 +11,13 @@ Real time Chat app made from scratch based on the lessons I learned from React c
 SignUp and Login using Chat Engine
   </li>
     <li>
-Send Real time chat
-  </li>
-  <li>
-Send Pictures, Files, and Documents in chat.
+Send Real-time Messages, Pictures, Files
   </li>
   <li>
 User Search Bar
   </li>
   <li>
 Online / Offline Features
-  </li>
-  <li>
-Allows Chat with Multiple Users
   </li>
   <li>
 Fully Responsive Design
